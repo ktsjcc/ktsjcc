@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ktsjcc
-- 👀 I’m interested in Python and Spring framework
-- 🌱 I’m currently learning Hadoop
+- 👀 I’m interested in Python and Spring frameworks
+- 🌱 I’m currently learning Vue.js
 
 <!---
 ktsjcc/ktsjcc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
