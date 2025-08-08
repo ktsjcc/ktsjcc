@@ -1,0 +1,11 @@
+/workspace/src/main/java/com/example/stockmonitor/service/ScreeningService.java
+/workspace/src/main/java/com/example/stockmonitor/model/StockModels.java
+/workspace/src/main/java/com/example/stockmonitor/StockMonitorApplication.java
+/workspace/src/main/java/com/example/stockmonitor/service/GreedIndexService.java
+/workspace/src/main/java/com/example/stockmonitor/service/SchedulerService.java
+/workspace/src/main/java/com/example/stockmonitor/service/AggregationService.java
+/workspace/src/main/java/com/example/stockmonitor/service/IndicatorService.java
+/workspace/src/main/java/com/example/stockmonitor/service/YahooFinanceClient.java
+/workspace/src/main/java/com/example/stockmonitor/service/MonteCarloService.java
+/workspace/src/main/java/com/example/stockmonitor/service/MarketDataService.java
+/workspace/src/main/java/com/example/stockmonitor/web/DashboardController.java
